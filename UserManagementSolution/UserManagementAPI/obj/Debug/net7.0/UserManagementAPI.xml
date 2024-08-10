@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserManagementAPI</name>
+    </assembly>
+    <members>
+        <member name="T:UserManagementAPI.Swagger.ConfigureSwaggerOptions">
+            <summary>
+              Configures the Swagger generation options.
+            </summary>
+            <remarks>
+              This allows API versioning to define a Swagger document per API version after the <see
+              cref="T:Asp.Versioning.ApiExplorer.IApiVersionDescriptionProvider"/> service has been resolved from the service container.
+            </remarks>
+        </member>
+        <member name="M:UserManagementAPI.Swagger.ConfigureSwaggerOptions.#ctor(Asp.Versioning.ApiExplorer.IApiVersionDescriptionProvider)">
+            <summary>
+              Initializes a new instance of the <see cref="T:UserManagementAPI.Swagger.ConfigureSwaggerOptions"/> class.
+            </summary>
+            <param name="provider">
+              The <see cref="T:Asp.Versioning.ApiExplorer.IApiVersionDescriptionProvider">provider</see> used to generate Swagger documents.
+            </param>
+        </member>
+        <member name="M:UserManagementAPI.Swagger.ConfigureSwaggerOptions.Configure(Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions)">
+            <inheritdoc/>
+        </member>
+        <member name="T:UserManagementAPI.Swagger.SwaggerDefaultValues">
+            <summary>
+              Represents the OpenAPI/Swashbuckle operation filter used to document information provided, but
+              not used.
+            </summary>
+            <remarks>
+              This <see cref="T:Swashbuckle.AspNetCore.SwaggerGen.IOperationFilter"/> is only required due to bugs in the <see
+              cref="T:Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator"/>. Once they are fixed and published, this class can be removed.
+            </remarks>
+        </member>
+        <member name="M:UserManagementAPI.Swagger.SwaggerDefaultValues.Apply(Microsoft.OpenApi.Models.OpenApiOperation,Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)">
+            <inheritdoc/>
+        </member>
+    </members>
+</doc>

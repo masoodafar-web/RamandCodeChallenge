@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iADnmYv3387FmHtUqGBR4j8zrdFjIfbWufeKKJthIhkZ1Z0/KHITeY7pu42vDDTVebDFaE2lkCL8W+bfivMP2g==",
+  "success": true,
+  "projectFilePath": "E:\\saga\\rabbitmq-saga-with-database-complete\\saga-state-machine-with-db-complete\\UserManagementSolution\\UserManagement.Models\\UserManagement.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Masoud\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\Masoud\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\Masoud\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

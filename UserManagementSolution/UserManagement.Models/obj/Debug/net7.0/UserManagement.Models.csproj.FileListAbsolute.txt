@@ -1,0 +1,12 @@
+E:\saga\rabbitmq-saga-with-database-complete\saga-state-machine-with-db-complete\UserManagementSolution\UserManagement.Models\bin\Debug\net7.0\UserManagement.Models.deps.json
+E:\saga\rabbitmq-saga-with-database-complete\saga-state-machine-with-db-complete\UserManagementSolution\UserManagement.Models\bin\Debug\net7.0\UserManagement.Models.dll
+E:\saga\rabbitmq-saga-with-database-complete\saga-state-machine-with-db-complete\UserManagementSolution\UserManagement.Models\bin\Debug\net7.0\UserManagement.Models.pdb
+E:\saga\rabbitmq-saga-with-database-complete\saga-state-machine-with-db-complete\UserManagementSolution\UserManagement.Models\obj\Debug\net7.0\UserManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\saga\rabbitmq-saga-with-database-complete\saga-state-machine-with-db-complete\UserManagementSolution\UserManagement.Models\obj\Debug\net7.0\UserManagement.Models.AssemblyInfoInputs.cache
+E:\saga\rabbitmq-saga-with-database-complete\saga-state-machine-with-db-complete\UserManagementSolution\UserManagement.Models\obj\Debug\net7.0\UserManagement.Models.AssemblyInfo.cs
+E:\saga\rabbitmq-saga-with-database-complete\saga-state-machine-with-db-complete\UserManagementSolution\UserManagement.Models\obj\Debug\net7.0\UserManagement.Models.csproj.CoreCompileInputs.cache
+E:\saga\rabbitmq-saga-with-database-complete\saga-state-machine-with-db-complete\UserManagementSolution\UserManagement.Models\obj\Debug\net7.0\UserManagement.Models.sourcelink.json
+E:\saga\rabbitmq-saga-with-database-complete\saga-state-machine-with-db-complete\UserManagementSolution\UserManagement.Models\obj\Debug\net7.0\UserManagement.Models.dll
+E:\saga\rabbitmq-saga-with-database-complete\saga-state-machine-with-db-complete\UserManagementSolution\UserManagement.Models\obj\Debug\net7.0\refint\UserManagement.Models.dll
+E:\saga\rabbitmq-saga-with-database-complete\saga-state-machine-with-db-complete\UserManagementSolution\UserManagement.Models\obj\Debug\net7.0\UserManagement.Models.pdb
+E:\saga\rabbitmq-saga-with-database-complete\saga-state-machine-with-db-complete\UserManagementSolution\UserManagement.Models\obj\Debug\net7.0\ref\UserManagement.Models.dll
